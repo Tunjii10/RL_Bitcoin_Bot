@@ -1,0 +1,5 @@
+numpy==1.19.5
+pandas==1.2.3
+plotly==4.14.3
+gym==0.18.0
+stable-baselines3[extra]==1.0
